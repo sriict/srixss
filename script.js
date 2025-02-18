@@ -6,4 +6,4 @@ for (let i = 0; i < localStorage.length; i++) {
   x.push({ [key]: value });
 }
 
-console.log(x,'tested');
+console.log(x);
